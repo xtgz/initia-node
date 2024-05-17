@@ -139,7 +139,7 @@ initiad version
 ### 4. Set up variables
 ```bash
 # Customize if you need
-echo 'export MONIKER="My_Node"' >> ~/.bash_profile
+echo 'export MONIKER="tgz"' >> ~/.bash_profile
 echo 'export CHAIN_ID="initiation-1"' >> ~/.bash_profile
 echo 'export WALLET_NAME="wallet"' >> ~/.bash_profile
 echo 'export RPC_PORT="26657"' >> ~/.bash_profile
